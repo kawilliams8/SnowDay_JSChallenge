@@ -4,7 +4,7 @@
 
 https://sudoku.com/how-to-play/sudoku-rules-for-complete-beginners/
 
-const input = [
+`const input = [
   [ , , ],[ , , ],[ , , ],
   [ , , ],[ , , ],[ , , ],
   [ , , ],[ , , ],[ , , ],
@@ -14,7 +14,7 @@ const input = [
   [ , , ],[ , , ],[ , , ],
   [ , , ],[ , , ],[ , , ],
   [ , , ],[ , , ],[ , , ],
-]
+]`
 
 I have barely played Sudoku, so this is a tough challenge!
 
